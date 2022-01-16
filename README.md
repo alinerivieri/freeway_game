@@ -1,4 +1,4 @@
-# JOGO FREEWAY
+# FREEWAY GAME
 
 This game is a reimagining of Atari's Freeway game.
 

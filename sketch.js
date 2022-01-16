@@ -2,7 +2,7 @@
 
 function setup() {
   createCanvas(800, 400);
- // somDaTrilha.loop();
+  somDaTrilha.loop();
 }
 
 function draw() {
